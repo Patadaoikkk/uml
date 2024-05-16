@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2024-05-16T01:01:01.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="xcuwRPQ22Y5HYMDjBw_T" version="24.4.2" type="google">
+  <diagram name="Página-1" id="Q_VguiuVrEZQRqO3uicU">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-1" target="ADaKmyJAbjMcSbpKmV_Y-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-1" target="ADaKmyJAbjMcSbpKmV_Y-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-1" target="ADaKmyJAbjMcSbpKmV_Y-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-1" target="ADaKmyJAbjMcSbpKmV_Y-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-1" target="ADaKmyJAbjMcSbpKmV_Y-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;usuario&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="384" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-2" target="ADaKmyJAbjMcSbpKmV_Y-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="587" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;psicologo&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-5" target="ADaKmyJAbjMcSbpKmV_Y-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;paciente&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="420" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Registra-se&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="10" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Efetuar login&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="632.5" y="90" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Visualizar perfil&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="632.5" y="160" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-15" target="ADaKmyJAbjMcSbpKmV_Y-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-15" value="Inserir CRP&amp;nbsp; (caso for psicologo)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="834.5" y="10" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-18" value="Procurar profissionais" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="530" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-19" target="ADaKmyJAbjMcSbpKmV_Y-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-19" value="Agendar consulta" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-20" target="ADaKmyJAbjMcSbpKmV_Y-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-20" value="Cancelar Consulta" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="570" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-21" value="Pagamento" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="ADaKmyJAbjMcSbpKmV_Y-21" target="ADaKmyJAbjMcSbpKmV_Y-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-29" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="557.5" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ADaKmyJAbjMcSbpKmV_Y-33" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
