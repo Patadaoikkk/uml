@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T23:34:15.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="E9UBGe_x8H2GLCxomXSj" version="24.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T01:38:26.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="px-L49C5fe3JUescTR12" version="24.4.10" type="github">
   <diagram name="Página-1" id="5c7cXVIxc6Zba3c8BK8-">
-    <mxGraphModel dx="1707" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
         <mxCell id="kuCT0JWgRBGRcobsYB0P-19" value="- cancelarConsulta():" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="550" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kuCT0JWgRBGRcobsYB0P-20" value="- conversarChatBot():" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kuCT0JWgRBGRcobsYB0P-20" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;- avaliar psicologo():&lt;/font&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="580" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kuCT0JWgRBGRcobsYB0P-21" value="Psicologo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -179,10 +179,10 @@
         <mxCell id="KTSWGA55j3tpUjNlQqNr-7" value="# nome: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="KTSWGA55j3tpUjNlQqNr-6" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="ylbElyYXsv-rQZZ2zQGT-1" value="# mensagem: text" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KTSWGA55j3tpUjNlQqNr-6">
+        <mxCell id="ylbElyYXsv-rQZZ2zQGT-1" value="# mensagem: text" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KTSWGA55j3tpUjNlQqNr-6" vertex="1">
           <mxGeometry y="52" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ylbElyYXsv-rQZZ2zQGT-2" value="# email: string" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="KTSWGA55j3tpUjNlQqNr-6">
+        <mxCell id="ylbElyYXsv-rQZZ2zQGT-2" value="# email: string" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="KTSWGA55j3tpUjNlQqNr-6" vertex="1">
           <mxGeometry y="82" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KTSWGA55j3tpUjNlQqNr-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="KTSWGA55j3tpUjNlQqNr-6" vertex="1">
