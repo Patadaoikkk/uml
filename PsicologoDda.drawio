@@ -1,9 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T01:09:35.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.5.1" etag="NOZvgWdPSg9ebvuVc5U8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T01:19:26.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Sz1hX2zrxYC5JucE5ZSO" version="24.5.1" type="github">
   <diagram name="Página-1" id="4VpYl_k5ar55MUR6LQzR">
-    <mxGraphModel>
+    <mxGraphModel dx="1509" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GBSFvnxEgDLmhailXAmM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-14" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-16" value="Receber informações de login" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="79" as="sourcePoint" />
+            <mxPoint x="390" y="79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-20" target="GBSFvnxEgDLmhailXAmM-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-20" value="Verificar dados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-22" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-23" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="65" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-24" value="Informações inválidas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-25" value="Informações válidas" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="120" as="sourcePoint" />
+            <mxPoint x="550" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-27" value="Receber Senha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-29" target="GBSFvnxEgDLmhailXAmM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-29" value="Validar Senha" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-31" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-32" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="395" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-33" value="Senha Invalida" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-34" value="Senha Válida" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="450" as="sourcePoint" />
+            <mxPoint x="550" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-36" value="Enviar confirmação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="550" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GBSFvnxEgDLmhailXAmM-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-38" value="Conceder acesso a conta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-39" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="535" y="840" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GBSFvnxEgDLmhailXAmM-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="790" as="sourcePoint" />
+            <mxPoint x="550" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
