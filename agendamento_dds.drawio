@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T22:23:43.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JDQbw40Cpbf_gBt88lxR" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T23:48:02.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AjFUTvmrX9Xo4M1gY-di" version="24.5.5" type="github">
   <diagram name="Página-1" id="MzhAWVXdsWXZpEsDFayF">
     <mxGraphModel dx="794" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m3T2HgTwP3p-kdqrnD-R-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;agendamento&lt;/font&gt;&lt;/font&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="m3T2HgTwP3p-kdqrnD-R-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Pedido de consulta&lt;/font&gt;&lt;/font&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m3T2HgTwP3p-kdqrnD-R-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="m3T2HgTwP3p-kdqrnD-R-13" edge="1">
@@ -85,7 +85,7 @@
             <mxPoint x="930" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPbNV2PuWix7QSkUeo2Z-4" value="Fazer agendamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gPbNV2PuWix7QSkUeo2Z-4" value="Escolher Psicólogo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="370" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gPbNV2PuWix7QSkUeo2Z-11" value="verdadeiro int: envia contato de psicologo&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=-5;entryPerimeter=0;" parent="1" source="gPbNV2PuWix7QSkUeo2Z-23" edge="1">
@@ -108,7 +108,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPbNV2PuWix7QSkUeo2Z-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Paciente&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="gPbNV2PuWix7QSkUeo2Z-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Psicólogo&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1180" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gPbNV2PuWix7QSkUeo2Z-22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="gPbNV2PuWix7QSkUeo2Z-23" edge="1">
@@ -136,7 +136,7 @@
             <mxPoint x="1190" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gPbNV2PuWix7QSkUeo2Z-26" value="Envia formulario" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="gPbNV2PuWix7QSkUeo2Z-26" value="Enviar pedido" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1030" y="380" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
